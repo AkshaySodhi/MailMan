@@ -13,7 +13,7 @@ function Login() {
         <div className="flex flex-col justify-center">
             <h1 className="text-3xl font-semibold text-center text-gray-300">
                 Launch
-                <span className="text-blue-500"> MailMan</span>
+                <span className="text-blue-500"> AutoMail</span>
             </h1>
             <button className="mt-4 mx-auto h-[2.5rem] w-2/5 cursor-pointer text-white bg-gray-400 bg-opacity-10 rounded-lg"
                 onClick={handleLogin}>
